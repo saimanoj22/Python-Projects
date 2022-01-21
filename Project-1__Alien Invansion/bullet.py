@@ -1,4 +1,3 @@
-from matplotlib.pyplot import spring
 import pygame 
 from pygame.sprite import Sprite
 
