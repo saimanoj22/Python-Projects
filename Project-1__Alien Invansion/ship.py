@@ -1,6 +1,4 @@
-from telnetlib import SE
 import pygame
-
 from settings import Settings
 
 class Ship():
